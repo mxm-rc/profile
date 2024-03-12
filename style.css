@@ -49,6 +49,12 @@ a:hover {
   margin: 0 auto;
 }
 
+.img-profile {
+  object-fit: cover;
+  width: 230px;
+  height: 230px;
+}
+
 .img-circle {
   border-radius: 50%;
 }
