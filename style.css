@@ -23,6 +23,13 @@ a:hover {
   color: #8c99fa;
 }
 
+.btn-blue {
+  background-color: #8c99fa;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px
+}
+
 .btn-blue:hover {
     background-color: white;
     color: 8c99fa;
@@ -40,6 +47,10 @@ a:hover {
 .container {
   width: 500px ;
   margin: 0 auto;
+}
+
+.img-circle {
+  border-radius: 50%;
 }
 
 .list-inline {
